@@ -2,7 +2,7 @@ package com.laststringx.tricks.Strings;
 
 public class IsUniqueString {
 	public static void main(String[] args) {
-		System.out.println(isUniqueElementsInStrings("abcdf"));
+		System.out.println(isUniqueElementsInStrings("abcdfg"));
 	}
 
 	static boolean isUniqueElementsInStrings(String str) {
